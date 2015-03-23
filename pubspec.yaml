@@ -4,13 +4,5 @@ description: An absolute bare-bones web app.
 environment:
   sdk: '>=1.0.0 <2.0.0'
 dependencies:
-  _discoveryapis_commons: any
-  async: any
   boarding: any
   browser: any
-  css_animation: any
-  dartling: any
-  game_loop: any
-  geo: any
-  path: any
-  tictac: any
